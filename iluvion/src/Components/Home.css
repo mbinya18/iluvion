@@ -1,0 +1,43 @@
+.bg-gradient {
+    background: linear-gradient(135deg, #5b50a1, #4a67b1);
+  }
+
+.banner{
+    
+}
+.right-business{
+    font-size: 70px;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.grow-your-business{
+    font-size: 20px;
+    padding-left: 10px;
+}
+.get-started{
+    padding: 8px;
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 10px 10px 20px #4a67b1, -10px -10px 20px #5b50a1;
+    
+}
+.learn-more{
+    padding: 8px;
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 10px 10px 20px #4a67b1, -10px -10px 20px #5b50a1;
+}
+.banner-img {
+    margin-top: 100px;
+    margin-left: 30px;
+    padding-left: 90px;
+    width: 500px; 
+    height: 500px; 
+    border: 2px solid;
+    border-radius: 50%;
+    
+}
